@@ -1,5 +1,6 @@
 # Pedestrian_Detection
-
+ “무인 순찰 드론” 작품으로 라즈베리파이 OS와 OpenCV 환경을 구축하고, Hog 알고리즘을 이용하여 보행자를 검출했습니다.
+ 
 Screenshots
 ------------
 <div>
